@@ -1,2 +1,8 @@
 ## IDE
 .idea
+
+## binary
+bin
+
+## Configs
+.env
